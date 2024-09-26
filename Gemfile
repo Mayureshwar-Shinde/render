@@ -71,3 +71,5 @@ end
 
 gem 'haml-rails'
 gem 'html2haml'
+
+gem 'net-pop', github: 'ruby/net-pop'
